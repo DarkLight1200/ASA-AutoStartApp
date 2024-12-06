@@ -1,5 +1,5 @@
 # ASA-AutoStartApp Eng Beta V1.0
-Это приложения создает bat файл на определенный файл выбранный вами / This application creates a bat file on a specific file selected by you
+Это приложения создает bat файл для автостарта на определенный файл выбранный вами / This application creates a bat file for autostart on a specific file selected by you
 
 ![image](https://github.com/user-attachments/assets/e6ac7e2a-485e-446f-97c6-11268f471229)
 
@@ -12,6 +12,11 @@
 3. При нажатии кнопки «Create» будет создан файл, и вы увидите постепенное его создание в командной строке. / 3. When you click the "Create" button, a file will be created and you will see its gradual creation on the command line.
 
    3.1 Если оставить путь к файлу пустым файл не будет создан и появится ошибка в консоли / 3.1 If you leave the path to the file empty, the file will not be created and an error will appear in the console
+
+4. После создания файла появится кнопка «Check directory». Эта кнопка проверяет содержимое папки, включая все её файлы. / After creating the file, the "Check directory" button will appear. This button checks the contents of the folder, including all its files.
+
+5. Предупреждение!: После успешного создания bat файла перезапустите программу, чтобы избежать создания новых папок с файлами внутри существующей. / Warning!: After successfully creating the bat file, restart the program to avoid creating new folders with files inside the existing one.
+
 
 Так как это приложение еще в разработке оно работает через консоль и может вызвать не понятные ошибки .
 Сейчас идет активная работа над всеми ошибками котороя может выдать программа такие как (2.1)
