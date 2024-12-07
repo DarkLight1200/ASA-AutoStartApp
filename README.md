@@ -1,5 +1,5 @@
 # ASA-AutoStartApp Eng Beta V1.2
-Это приложения создает bat файл для автостарта на определенный файл выбранный вами / This application creates a bat file for autostart on a specific file selected by you
+Это приложение создает пакетный файл (bat) для автоматического запуска выбранного вами файла. / This application creates a bat file for autostart on a specific file selected by you
 
 ![image](https://github.com/user-attachments/assets/4e82ec8d-6c95-48b7-8812-7a791a03f851)
 
