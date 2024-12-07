@@ -1,4 +1,4 @@
-# ASA-AutoStartApp Eng Beta V1.1
+# ASA-AutoStartApp Eng Beta V1.2
 Это приложения создает bat файл для автостарта на определенный файл выбранный вами / This application creates a bat file for autostart on a specific file selected by you
 
 ![image](https://github.com/user-attachments/assets/db8fd6a9-d3d4-4279-9d33-5b92fa0d8218)
@@ -30,4 +30,4 @@ I am currently actively working on all the errors (5).
 In the future, the program will be translated into Russian, Ukrainian and Kazakh languages.
 
 
-Eng Beta V1.1
+Eng Beta V1.2
