@@ -16,7 +16,7 @@
 
 3. При нажатии кнопки «Create» будет создан файл, и вы увидите постепенное его создание в командной строке. / 3. When you click the "Create" button, a file will be created and you will see its gradual creation on the command line.
 
-   3.1 Если оставить путь к файлу пустым файл не будет создан и появится ошибка в консоли / 3.1 If you leave the path to the file empty, the file will not be created and an error will appear in the console
+   3.1 Если оставить путь к файлу пустым файл не будет создан и появится ошибка.  / 3.1 If you leave the path to the file empty, the file will not be created and an error will appear .
 
 4. При нажатии кнопки check directory откроется папка проекта . / Clicking the check directory button opens the project folder.
 
